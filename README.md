@@ -26,6 +26,8 @@ conditional formatting, Excel formulas, dynamic dashboard,
 
 ## Tools Used
 Tools used as part of this project:
-|Microsoft Excel-PO Tracker Sheet| Dashboard, Conditional Formatting, SUMIF, COUNTIF Formulas|
-|SAP S/4 HANA| SAP MM Navigation via OpenSAP- Simulating the Vendor PO to PR processes |
+| Tools | Purpose |
+|------|-------|
+| Microsoft Excel-PO Tracker Sheet | Dashboard, Conditional Formatting, SUMIF, COUNTIF Formulas |
+|SAP S/4 HANA | SAP MM Navigation via OpenSAP- Simulating the Vendor PO to PR processes |
 
