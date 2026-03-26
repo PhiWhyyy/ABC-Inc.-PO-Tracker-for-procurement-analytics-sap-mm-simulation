@@ -3,6 +3,8 @@
 This project simulates an end-to-end procurement workflow inspired by SAP MM (Materials Management). It focuses on tracking purchase orders, monitoring vendor performance, and analyzing procurement efficiency using structured data.
 The goal is to demonstrate how procurement operations can be managed and optimized using data-driven insights.
 
+PS: The data used in this project is entirely hypothetical, no connection to any company or real events
+
 ## Business Problem
 Organizations often struggle with:
 - Lack of visibility in purchase order tracking
