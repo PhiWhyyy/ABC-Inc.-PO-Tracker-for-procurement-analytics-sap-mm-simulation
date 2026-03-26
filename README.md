@@ -17,3 +17,13 @@ This project addresses these challenges by creating a centralized system to trac
 - Built a purchase order tracking system to monitor order status and delivery timelines
 - Analyzed vendor performance and procurement efficiency
 - Created dashboards to visualize key procurement metrics
+
+##  Features
+conditional formatting, Excel formulas, dynamic dashboard, 
+
+## status tracking 
+-(Open / Acknowledged / Delivered / Backorder)
+
+## Tools Used
+-Microsoft Excel
+-openpyxl
