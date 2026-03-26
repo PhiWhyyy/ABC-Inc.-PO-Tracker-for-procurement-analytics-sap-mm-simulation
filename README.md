@@ -21,7 +21,7 @@ This project addresses these challenges by creating a centralized system to trac
 ##  Features
 conditional formatting, Excel formulas, dynamic dashboard, 
 
-## status tracking 
+## Status tracking 
 (Open / Acknowledged / Delivered / Backorder)
 
 ## Tools Used
