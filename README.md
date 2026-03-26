@@ -22,8 +22,10 @@ This project addresses these challenges by creating a centralized system to trac
 conditional formatting, Excel formulas, dynamic dashboard, 
 
 ## status tracking 
--(Open / Acknowledged / Delivered / Backorder)
+(Open / Acknowledged / Delivered / Backorder)
 
 ## Tools Used
+
+Tools used as part of this project:
 -Microsoft Excel
 -openpyxl
