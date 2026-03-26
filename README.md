@@ -25,7 +25,6 @@ conditional formatting, Excel formulas, dynamic dashboard,
 (Open / Acknowledged / Delivered / Backorder)
 
 ## Tools Used
-
 Tools used as part of this project:
--Microsoft Excel
--openpyxl
+- Microsoft Excel
+- openpyxl
